@@ -3,3 +3,7 @@
 
 #include "RedGravityGameModeBase.h"
 
+ARedGravityGameModeBase::ARedGravityGameModeBase()
+{
+
+}

@@ -13,5 +13,8 @@ UCLASS()
 class REDGRAVITY_API ARedGravityGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
+	ARedGravityGameModeBase();
 	
 };
