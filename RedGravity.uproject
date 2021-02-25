@@ -7,7 +7,10 @@
 		{
 			"Name": "RedGravity",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"PhysXVehicles"
+			]
 		}
 	],
 	"Plugins": [
@@ -15,6 +18,14 @@
 			"Name": "Linter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	]
 }
