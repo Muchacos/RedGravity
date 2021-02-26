@@ -16,6 +16,11 @@ class REDGRAVITY_API ARoverPawn : public AWheeledVehicle
 
 public:
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+	int CurrentSpeed;
+
+public:
+
 	ARoverPawn();
 
 	virtual void Tick(float DeltaTime) override;
@@ -41,10 +46,10 @@ protected:
 
 	//Springarm that holds the camera
 	UPROPERTY(Category = Camera, EditDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-		class USpringArmComponent* SpringArm;
+	class USpringArmComponent* SpringArm;
 
 	//Camera that will be our viewport
 	UPROPERTY(Category = Camera, EditDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-		class UCameraComponent* Camera;
+	class UCameraComponent* Camera;
 
 };

@@ -17,23 +17,23 @@ ARoverPawn::ARoverPawn()
 	UWheeledVehicleMovementComponent4W* Rover4W = CastChecked<UWheeledVehicleMovementComponent4W>(GetVehicleMovement());
 
 	//Adjust the tire loading
-	Rover4W->MinNormalizedTireLoad = 0.0f;
+	Rover4W->MinNormalizedTireLoad = 0.f;
 	Rover4W->MinNormalizedTireLoadFiltered = 0.2f;
-	Rover4W->MaxNormalizedTireLoad = 2.0f;
-	Rover4W->MaxNormalizedTireLoadFiltered = 2.0f;
+	Rover4W->MaxNormalizedTireLoad = 2.f;
+	Rover4W->MaxNormalizedTireLoadFiltered = 2.f;
 
 	//Torque setup - how much torque we have on given RPM
-	Rover4W->MaxEngineRPM = 5700.0f;
+	Rover4W->MaxEngineRPM = 5700.f;
 	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->Reset();
-	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(0.0f, 400.0f);
-	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(1890.0f, 500.0f);
-	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(5730.0f, 400.0f);
+	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(0.f, 400.f);
+	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(1890.f, 500.f);
+	Rover4W->EngineSetup.TorqueCurve.GetRichCurve()->AddKey(5730.f, 400.f);
 
 	//Steering setup
 	Rover4W->SteeringCurve.GetRichCurve()->Reset();
-	Rover4W->SteeringCurve.GetRichCurve()->AddKey(0.0f, 1.0f);
-	Rover4W->SteeringCurve.GetRichCurve()->AddKey(40.0f, 0.7f);
-	Rover4W->SteeringCurve.GetRichCurve()->AddKey(120.0f, 0.6f);
+	Rover4W->SteeringCurve.GetRichCurve()->AddKey(0.f, 1.f);
+	Rover4W->SteeringCurve.GetRichCurve()->AddKey(40.f, 0.7f);
+	Rover4W->SteeringCurve.GetRichCurve()->AddKey(120.f, 0.6f);
 
 	Rover4W->DifferentialSetup.DifferentialType = EVehicleDifferential4W::LimitedSlip_4W;
 	Rover4W->DifferentialSetup.FrontRearSplit = 0.65f;
@@ -41,23 +41,26 @@ ARoverPawn::ARoverPawn()
 	//Automatic Gearbox setup
 	Rover4W->TransmissionSetup.bUseGearAutoBox = true;
 	Rover4W->TransmissionSetup.GearSwitchTime = 0.15f;
-	Rover4W->TransmissionSetup.GearAutoBoxLatency = 1.0f;
+	Rover4W->TransmissionSetup.GearAutoBoxLatency = 1.f;
 	
 	//Create a springarm that holds the camera
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArm"));
 	SpringArm->SetupAttachment(RootComponent);
-	SpringArm->TargetArmLength = 250.0f;
+	SpringArm->TargetArmLength = 250.f;
 	SpringArm->bUsePawnControlRotation = true;
 
 	//Create the camera
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("DefaultCamera"));
 	Camera->SetupAttachment(SpringArm, USpringArmComponent::SocketName);
-	Camera->FieldOfView = 90.0f;
+	Camera->FieldOfView = 90.f;
 }
 
 void ARoverPawn::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	
+	//Getiing the current vehicle speed and convert it from cm/s to km/h
+	CurrentSpeed = int(CastChecked<UWheeledVehicleMovementComponent4W>(GetVehicleMovement())->GetForwardSpeed() * 0.036);
 }
 
 void ARoverPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
