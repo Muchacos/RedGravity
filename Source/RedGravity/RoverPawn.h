@@ -19,6 +19,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	int CurrentSpeed;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	int Score;
+
 public:
 
 	ARoverPawn();
