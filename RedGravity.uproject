@@ -27,6 +27,11 @@
 		{
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "VehiclesPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/vehicles-movement-components"
 		}
 	]
 }
