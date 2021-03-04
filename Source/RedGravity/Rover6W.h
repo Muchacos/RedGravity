@@ -4,27 +4,27 @@
 
 #include "CoreMinimal.h"
 #include "WheeledVehicle.h"
-#include "RoverPawn.generated.h"
+#include "Rover6W.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class REDGRAVITY_API ARoverPawn : public AWheeledVehicle
+class REDGRAVITY_API ARover6W : public AWheeledVehicle
 {
 	GENERATED_BODY()
 
 public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-	int CurrentSpeed;
+	float CurrentSpeed;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	int Score;
 
 public:
 
-	ARoverPawn();
+	ARover6W(const FObjectInitializer& ObjectInitializer);
 
 	virtual void Tick(float DeltaTime) override;
 
@@ -32,7 +32,7 @@ public:
 
 	//Movement
 	void ApplyThrottle(float Throttle);
-	
+
 	void ApplySteering(float Steering);
 
 	//Look around

@@ -9,6 +9,8 @@ public class RedGravity : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "VehiclesPlugin" });
+
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
