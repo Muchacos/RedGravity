@@ -52,10 +52,15 @@ ARover6W::ARover6W(const FObjectInitializer& ObjectInitializer) : Super(ObjectIn
 	SpringArm->TargetArmLength = 250.f;
 	SpringArm->bUsePawnControlRotation = true;
 
-	//Create the camera
-	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("DefaultCamera"));
-	Camera->SetupAttachment(SpringArm, USpringArmComponent::SocketName);
-	Camera->FieldOfView = 90.f;
+	//Creating the cameras
+	DefaultCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("DefaultCamera"));
+	DefaultCamera->SetupAttachment(SpringArm, USpringArmComponent::SocketName);
+	DefaultCamera->FieldOfView = 90.f;
+
+	RoverCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("RoverCamera"));
+	RoverCamera->SetupAttachment(RootComponent);
+	RoverCamera->bUsePawnControlRotation = false;
+	RoverCamera->FieldOfView = 90.f;
 }
 
 void ARover6W::Tick(float DeltaTime)
@@ -70,7 +75,7 @@ void ARover6W::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
-	//Bind input
+	//Bind inputs
 	PlayerInputComponent->BindAxis(NAME_SteerInput, this, &ARover6W::ApplySteering);
 	PlayerInputComponent->BindAxis(NAME_ThrottleInput, this, &ARover6W::ApplyThrottle);
 	PlayerInputComponent->BindAxis("ViewVertical", this, &ARover6W::ViewVertical);
@@ -78,7 +83,8 @@ void ARover6W::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 	PlayerInputComponent->BindAction("Handbrake", IE_Pressed, this, &ARover6W::OnHandbrakePressed);
 	PlayerInputComponent->BindAction("Handbrake", IE_Released, this, &ARover6W::OnHandbrakeReleased);
-
+	PlayerInputComponent->BindAction("CameraDefault", IE_Pressed, this, &ARover6W::OnCameraDefaultPressed);
+	PlayerInputComponent->BindAction("CameraRover", IE_Pressed, this, &ARover6W::OnCameraRoverPressed);
 }
 
 void ARover6W::ApplyThrottle(float Throttle)
@@ -117,4 +123,23 @@ void ARover6W::OnHandbrakeReleased()
 {
 	GetVehicleMovementComponent()->SetHandbrakeInput(false);
 
+}
+
+void ARover6W::OnCameraDefaultPressed()
+{
+	if (RoverCamera->IsActive())
+	{
+		RoverCamera->Deactivate();
+		DefaultCamera->Activate();
+	}
+	
+}
+
+void ARover6W::OnCameraRoverPressed()
+{
+	if (DefaultCamera->IsActive())
+	{
+		DefaultCamera->Deactivate();
+		RoverCamera->Activate();
+	}
 }

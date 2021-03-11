@@ -45,6 +45,11 @@ public:
 
 	void OnHandbrakeReleased();
 
+	//Cameras managment
+	void OnCameraDefaultPressed();
+
+	void OnCameraRoverPressed();
+
 protected:
 
 	//Springarm that holds the camera
@@ -53,6 +58,9 @@ protected:
 
 	//Camera that will be our viewport
 	UPROPERTY(Category = Camera, EditDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
-	class UCameraComponent* Camera;
+	class UCameraComponent* DefaultCamera;
+
+	UPROPERTY(Category = Camera, EditDefaultsOnly, BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
+	class UCameraComponent* RoverCamera;
 
 };
