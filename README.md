@@ -6,6 +6,9 @@
 ## О проекте
 RedGravity создан за месяц в качестве проекта для RTUITLab. Игровой движок - UnrealEngine 4. Основа класса для марсохода написана на C++, остальной код выполнен на Blueprint. Структура проекта организовывалась в соответсвии с [CleanCut UE4StyleGuide](https://github.com/CleanCut/UE4StyleGuide).
 
+## Видео
+[Геймплейное видео](https://youtu.be/rpwO1fdkwZs)
+
 ## Установка и игра
 Скачать [билд](https://drive.google.com/drive/folders/1JWNNKm6T6Q55F2nsZzsaaFpgCl0AGr3F?usp=sharing) и запустить RedGravity.exe
 
