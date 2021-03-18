@@ -32,6 +32,17 @@
 			"Name": "VehiclesPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/vehicles-movement-components"
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditorWin32",
+		"WindowsNoEditor",
+		"LinuxAArch64NoEditor",
+		"LinuxNoEditor",
+		"MacNoEditor"
 	]
 }
