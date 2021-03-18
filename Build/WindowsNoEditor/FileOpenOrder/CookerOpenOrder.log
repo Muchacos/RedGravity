@@ -1,0 +1,387 @@
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/PHYS_Opportunity.uasset" 0
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/opportunity_textured_PhysicsAsset.uasset" 1
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/SK_Opportunity.uasset" 2
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/opportunity_textured_Skeleton.uasset" 3
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Brushes/MeteorCrater_orig_heightmap.uasset" 4
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Collections/ABP_Opportunity.uasset" 5
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/PHYS_CubeRover.uasset" 6
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/SK_CubeRover.uasset" 7
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/SKEL_CubeRover.uasset" 8
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Collections/VehicleMovementComp_ExternalCurve.uasset" 9
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/ABP_CubeRover.uasset" 10
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Collections/BP_CWheel_Rear.uasset" 11
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Collections/BP_ChaosRover.uasset" 12
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_MinimapObjective.uasset" 13
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_MinimapObjective_D.uasset" 14
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 17
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 18
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 19
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 20
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/Fonts/Font_Evolventa_Oblique.uasset" 21
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/Fonts/Font_Evolventa_BoldOblique.uasset" 22
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/Fonts/Font_Evolventa_Bold.uasset" 23
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/Fonts/Font_Evolventa.uasset" 24
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/Fonts/Font_EvolventaFamily.uasset" 25
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/EObjectiveType.uasset" 26
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_ObjectiveBilboard.uasset" 27
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/SObjectiveData.uasset" 28
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/DT_StaticObjectives.uasset" 29
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/DT_LayoutObjectives.uasset" 30
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 31
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/SoundClass/MusicSound.uasset" 32
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/SoundClass/MasterSound.uasset" 33
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/SoundClass/SFXSound.uasset" 34
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/A_Rover_MedRPM.uasset" 35
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/A_Rover_LowRPM.uasset" 36
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/A_Rover_Idle.uasset" 37
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/A_Rover_HighRPM.uasset" 38
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/ATT_RoverEngine.uasset" 39
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Audio/A_RoverEngine.uasset" 40
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_Button_Main.uasset" 41
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_Button_Hover.uasset" 42
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/Mix_SoundMix.uasset" 43
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Menus/WBP_SettingsMenu.uasset" 44
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/BP_ObjectiveZone.uasset" 45
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/BP_GameMode.uasset" 46
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/BP_GameInstance.uasset" 47
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/BP_FunctionLibrary.uasset" 48
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/BP_GameState.uasset" 49
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Menus/WBP_PauseMenu.uasset" 50
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/STextData.uasset" 51
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/DT_EndingText.uasset" 52
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Menus/WBP_Endgame.uasset" 53
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/BP_HUD.uasset" 54
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Maps/WBP_MinimapPOI.uasset" 55
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_MinimapPlayer.uasset" 56
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/MPC_MinimapData.uasset" 57
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 58
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/M_Minimap.uasset" 59
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/MI_Minimap.uasset" 60
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Maps/WBP_Minimap.uasset" 61
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Brushes/a7108e01e55c813d9e9ba35e3950899e.uasset" 62
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Vehicles/BP_Rover6W_Player.uasset" 63
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/BP_ObjectivesManager.uasset" 64
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/BP_Objective.uasset" 65
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Objectives/WBP_Objective.uasset" 66
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_ProgressBar_Fill.uasset" 67
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_ProgressBar_Back.uasset" 68
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/UI/T_Map.uasset" 69
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/UI/A_ObjectiveComplete.uasset" 70
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/UI/A_ObjectiveCancel.uasset" 71
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_HUD.uasset" 72
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Maps/WBP_MapPOI.uasset" 73
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Maps/WBP_Map.uasset" 74
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Maps/BP_MapLocator.uasset" 75
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/BP_MapLocator.uasset" 76
+"../../../../../Documents/Unreal Projects/RedGravity/Content/Developers/Muchacos/Collections/TestMarker.uasset" 77
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Core/Objectives/BP_ObjectiveZoneBase.uasset" 78
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/DT_Objectives.uasset" 79
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/UI/A_ObjectiveNew.uasset" 80
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Sky/C_SkyColor_Horizon.uasset" 81
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 82
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 83
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 84
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 85
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 86
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 87
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 88
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 89
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 90
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Sky/BP_SkySphere.uasset" 91
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/BP_SkySphere.uasset" 92
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Sky/C_SkyColor_Zenith.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 94
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Rock_N.uasset" 95
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Landscape/MF_Land_Lower.uasset" 96
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/MF_Land_Lower.uasset" 97
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Sand_N.uasset" 98
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Noise_02_M.uasset" 99
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Landscape/MF_Land_Upper.uasset" 100
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/MF_Land_Upper.uasset" 101
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Landscape/MF_Sand.uasset" 102
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/MF_Sand.uasset" 103
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/MI_Minimap.uasset" 104
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/MPC_MinimapData.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 106
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 107
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Landscape/M_Land.uasset" 108
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/M_Land.uasset" 109
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/M_Minimap.uasset" 110
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Map_D.uasset" 111
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_MinimapPlayer_D.uasset" 112
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Noise_01_M.uasset" 113
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Noise_03_M.uasset" 114
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Utility/T_Noise_03_N.uasset" 115
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/BP_HUD.uasset" 116
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_Endgame.uasset" 117
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/Menus/WBP_MainMenuHUD.uasset" 118
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_MainMenuHUD.uasset" 119
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_Map.uasset" 120
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_MapPOI.uasset" 121
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_Minimap.uasset" 122
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_Objective.uasset" 123
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_PauseMenu.uasset" 124
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_MinimapPOI.uasset" 125
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/UI/WBP_POI.uasset" 126
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/Wheels/DA_CubeRoverTireConfig.uasset" 127
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/Wheels/BP_CubeRoverWheel_Rear.uasset" 128
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/Wheels/BP_CubeRoverWheel_Front.uasset" 129
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/Wheels/BP_CubeRoverWheel_Center.uasset" 130
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/CubeRover/BP_CubeRover.uasset" 131
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Wheels/DA_OpportunityrTireConfig.uasset" 132
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 133
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 134
+"../../../Engine/Content/BasicShapes/Cone.uasset" 135
+"../../../Engine/Content/BasicShapes/Cube.uasset" 136
+"../../../Engine/Content/BasicShapes/Plane.uasset" 137
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 138
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 139
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 140
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 141
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 142
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 145
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 146
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 147
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 149
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 154
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 155
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 156
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 157
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 158
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 159
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 160
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 161
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 162
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 163
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 164
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 165
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 166
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 167
+"../../../Engine/Content/EditorResources/S_Note.uasset" 168
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 169
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 170
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 171
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 172
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 173
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 174
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 175
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 178
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 183
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 185
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 186
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 187
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 188
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 189
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 190
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 191
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 192
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 193
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 194
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 195
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 196
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 197
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 201
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 205
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 207
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 208
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 209
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 211
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 212
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 213
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 214
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 216
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 218
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 219
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 220
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 221
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 222
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 223
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 225
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 226
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 227
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 228
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 229
+"../../../Engine/Content/EngineResources/Black.uasset" 230
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 231
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 232
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 233
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 234
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 235
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 236
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 237
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 238
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 239
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 241
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 242
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 243
+"../../../Engine/Content/EngineSounds/Master.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 245
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 246
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 247
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 248
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 249
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 267
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 268
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 269
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 270
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 271
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 272
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 274
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 275
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 276
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 277
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 279
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 280
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 281
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 282
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 283
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 284
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 285
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Texture2D_Size_NotTooBig.uasset" 286
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Texture2D_PowerOfTwo.uasset" 287
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_SoundWave_SampleRate.uasset" 288
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Path_PascalCase.uasset" 289
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Path_NoTopLevelAssets.uasset" 290
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Path_IsNotTooLong.uasset" 291
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Path_DisallowedPathNames.uasset" 292
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Path_AlphaNumeric.uasset" 293
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_PathRules.uasset" 294
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Particles_EmitterNames.uasset" 295
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_IsNamedCorrectly.uasset" 296
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Blueprint_LooseNodes.uasset" 297
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/LintRules/MPLR_Blueprint_Compiles.uasset" 298
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/MarketplaceLintRuleSet.uasset" 299
+"../../Plugins/Marketplace/Linter/Content/MarketplaceLinter/MarketplaceNamingConvention.uasset" 300
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 301
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 302
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 304
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 305
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 306
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 308
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 309
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 312
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 313
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 314
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 315
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 316
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 319
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 322
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 323
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Maps/Layout_BuiltData.uasset" 324
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Suspension_N.uasset" 325
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Suspension_D.uasset" 326
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Suspension.uasset" 327
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Silver.uasset" 328
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Panels_02_N.uasset" 329
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Panels_02_D.uasset" 330
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Panels_02.uasset" 331
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Panels_01_N.uasset" 332
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Panels_01_D.uasset" 333
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Panels_01.uasset" 334
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Mast.uasset" 335
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Mast.uasset" 336
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Instruments.uasset" 337
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Instruments.uasset" 338
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Foil_N.uasset" 339
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_FoilSilver.uasset" 340
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Body_N.uasset" 341
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Body_D.uasset" 342
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Body.uasset" 343
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/Textures/T_Arm_D.uasset" 344
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Materials/M_Arm.uasset" 345
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/SKEL_Opportunity.uasset" 346
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Wheels/BP_OpportunityWheel_Rear.uasset" 347
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Wheels/BP_OpportunityWheel_Center.uasset" 348
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/Wheels/BP_OpportunityrWheel_Front.uasset" 349
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/ABP_Opportunity.uasset" 350
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Vehicles/Opportunity/BP_Opportunity.uasset" 351
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Maps/Layout.umap" 352
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 353
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Maps/MainMenu_BuiltData.uasset" 354
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/Landscape/M_Rock.uasset" 355
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/MaterialLibrary/M_Rock.uasset" 356
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_11.uasset" 357
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_10.uasset" 358
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_09.uasset" 359
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_06.uasset" 360
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_05.uasset" 361
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_04.uasset" 362
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_01.uasset" 363
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Layers/LL_Main_UpperOnly.uasset" 364
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Layers/LL_Main_Sand.uasset" 365
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Layers/LL_Main_LowerOnly.uasset" 366
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Layers/LL_Main_LandAuto.uasset" 367
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/Level/A_MainMenu.uasset" 368
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/A_MainMenu_Cue.uasset" 369
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Animation/LS_MainMenuView.uasset" 370
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Maps/MainMenu.umap" 371
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_12.uasset" 372
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_08.uasset" 373
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_07.uasset" 374
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_03.uasset" 375
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Rocks/S_Rock_02.uasset" 376
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/Layers/LL_Back_LandAuto.uasset" 377
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Enviroment/Miscellaneous/BP_InvisibleWall.uasset" 378
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/Level/A_Background_05.uasset" 379
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/Level/A_Background_04.uasset" 380
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/Level/A_Background_02.uasset" 381
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Data/GlobalAudio/Level/A_Background_01.uasset" 382
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Audio/A_GameBackground_Cue.uasset" 383
+"../../../../../Documents/Unreal Projects/RedGravity/Content/RedGravity/Maps/Mars.umap" 384
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 385
+"../../../Engine/Content/Maps/Entry.umap" 386
